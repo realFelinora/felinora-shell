@@ -1,0 +1,37 @@
+{
+  "terminal": "kitty",
+  "networkSettings": "nm-connection-editor",
+
+  "images": {
+    "workspace": "",
+    "special": "",
+    "spin": "",
+    "sleep": "",
+    "avatar": ""
+  },
+
+  "weather": {
+    "city": ""
+  },
+
+  "kitty": {
+    "sync": false
+  },
+
+  "fastfetch": {
+    "sync": false
+  },
+
+  "cava": {
+    "sync": false
+  },
+
+  "qt": {
+    "sync": false
+  },
+
+  "files": {
+    "alwaysHidden": [],
+    "pinnedApps": []
+  }
+}

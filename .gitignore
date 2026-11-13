@@ -1,0 +1,18 @@
+# kişisel ayarlar ve resimler repoya girmesin
+config.json
+*.png
+*.jpg
+*.jpeg
+*.webp
+*.gif
+assets/*.svg
+
+# Qt / editör
+*.qmlc
+.qmlls.ini
+.qtcreator/
+.vscode/
+.idea/
+
+# README ekran görüntüleri repoya girsin
+!screenshots/*.png
